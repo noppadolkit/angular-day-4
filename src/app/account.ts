@@ -1,8 +1,8 @@
 export class Account {
 
   constructor(
-    public firstName,
-    public lastName
+    public firstName: string,
+    public lastName: string
   ) {
 
   }
